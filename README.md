@@ -1,3 +1,3 @@
 # LP5
 
-Performed Codes
+Performed Codes along with theory.
